@@ -3,7 +3,7 @@
 
 ## 字型介紹
 
-「霞鶩新晰黑 繁」是一款試驗性字型，基於日文開源字型[「IPAexゴシック」](http://moji.or.jp/ipafont)衍生，參考臺灣教育部門「方體母稿」及其近似字型修改漢字寫法。現階段該字型共包含 660 字（包括[「常用國字標準字體表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)範圍內的 650 字和表外的 10 字），均與簡中版[「霞鶩新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)有大體或細節上的差別。
+「霞鶩新晰黑 繁」是一款試驗性字型，基於日文開源字型[「IPAexゴシック」](http://moji.or.jp/ipafont)衍生，參考臺灣教育部門[「方體母稿」](https://language.moe.gov.tw/001/Upload/files/SITE_CONTENT/M0001/FANGTI/c14.htm)及其近似字型修改漢字寫法。現階段該字型共包含 660 字（包括[「常用國字標準字體表」](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/standard/edu_standard_1.txt)範圍內的 650 字和表外的 10 字），均與簡中版[「霞鶩新晰黑」](https://github.com/lxgw/LxgwNeoXiHei)有大體或細節上的差別。
 
 <details>
   <summary>點此查看目前該字型所收錄漢字</summary>
@@ -23,4 +23,8 @@
 - 有關 IPA Font License 1.0 的常見問題，請參閱 [FAQ（日語）](https://moji.or.jp/ipafont/faq)，需自備翻譯工具。
 - 任何個人、企業、團隊等對本字型進行使用、複製、修改、分發等任意用途即視為您已完全閱讀、充分理解並同意 IPA Font License 1.0 授權協議。  
   「IPA 字型（IPA Font，IPAフォント）」為日本「獨立行政法人　資訊處理推進機構」（The Information-Technology Promotion Agency, “IPA”）的註冊商標。
+
+## 參考資料
+
+- [方體母稿](https://language.moe.gov.tw/001/Upload/files/SITE_CONTENT/M0001/FANGTI/c14.htm)
 
