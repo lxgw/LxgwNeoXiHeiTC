@@ -17,3 +17,10 @@
 
 字型檔目前貯存于本項目 repo 根目錄，名稱為 LXGWXinXiHei-Regular。此外提供 FCP 格式工程檔，供 15.0.0.3048 及以上版本的 Font Creator 打開編輯。
 
+## 授權資訊
+
+- 本字型在 IPA 所開發併發布的 [IPA 字型](https://moji.or.jp/ipafont)基礎上衍生，依照 [IPA開放字型授權條款 第1.0版（IPA Font License 1.0）](https://opensource.org/licenses/IPA/) 授權。
+- 有關 IPA Font License 1.0 的常見問題，請參閱 [FAQ（日語）](https://moji.or.jp/ipafont/faq)，需自備翻譯工具。
+- 任何個人、企業、團隊等對本字型進行使用、複製、修改、分發等任意用途即視為您已完全閱讀、充分理解並同意 IPA Font License 1.0 授權協議。  
+  「IPA 字型（IPA Font，IPAフォント）」為日本「獨立行政法人　資訊處理推進機構」（The Information-Technology Promotion Agency, “IPA”）的註冊商標。
+
