@@ -12,3 +12,8 @@
 
 > [!NOTE]
 > 注意：本字型所包含的漢字較少，可能並不適合日常使用，如需測試排版效果，可與簡中版「霞鶩新晰黑」配合使用，但不保證所有字形均為標準字形。如有進一步增補計劃，將會補完「常用國字標準字體表」所收錄的 4808 個常用字、BIG5 所收錄的 5401 個[一級字](https://github.com/NightFurySL2001/cjktables/blob/master/taiwan/encoding/big5-1.txt)，並會考慮增補[「jf 7000 當務字集」](https://justfont.com/jf7000)基本包或[文鼎 Big-5 Miniset](https://ifontcloud.com/index/newknowledge_detail.jsp?id=126)，不考慮補完 BIG5 所有字。
+
+## 獲取字型檔
+
+字型檔目前貯存于本項目 repo 根目錄，名稱為 LXGWXinXiHei-Regular。此外提供 FCP 格式工程檔，供 15.0.0.3048 及以上版本的 Font Creator 打開編輯。
+
