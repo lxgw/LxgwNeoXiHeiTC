@@ -17,7 +17,7 @@
 
 ## 獲取字型檔
 
-字型檔目前存儲於本項目 repo 根目錄，名稱為 LXGWXinXiHei-Regular。此外提供 FCP 格式工程檔，供 15.0.0.3048 及以上版本的 Font Creator 打開編輯。
+字型檔目前存儲於本項目 repo 根目錄，名稱為 `LXGWXinXiHei-Regular.ttf`。此外提供 FCP 格式工程檔，供 15.0.0.3048 及以上版本的 FontCreator 打開編輯。
 
 ## 注意事項
 
