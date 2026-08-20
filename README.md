@@ -1,3 +1,12 @@
+> [!IMPORTANT]
+> **此專案為早期試驗版本，現已封存（唯讀），不再維護。**
+>
+> 該專案僅包含 660 個漢字，不具備實用字量，其探索「臺標」字形版本的試驗方向也已結束。
+>
+> 如需使用「霞鶩新晰黑」的繁體版本，請移步至採用傳承/舊式印刷字形的 [霞鶩晰黑 / LXGW XiHei](https://github.com/lxgw/LxgwXiHei)。
+>
+> 本專案衍生自 IPA 字型，遵循 IPA Font License 1.0。若計劃將本專案字型用於嵌入式用途，請務必仔細閱讀 [IPA Font License 1.0](https://moji.or.jp/ipafont/license/) 條款，並參考[「嵌入須知」](https://github.com/lxgw/lxgw/blob/main/documents/xizhi_embedding_instructions.md)自行評估合規成本（該文件為簡體中文，請自備簡繁轉換工具）。
+
 # LxgwNeoXiHeiTC
 [EXPERIMENTAL] A traditional Chinese font derived from IPAexGothic.
 
